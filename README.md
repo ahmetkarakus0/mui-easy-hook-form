@@ -2,7 +2,7 @@
 
 Generic type supported MUI form elements made for lazy devs like me.
 
-# Included Elements
+Included Elements
 
 - Autocomplete / MultiAutocomplete
 - Checkbox
